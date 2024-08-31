@@ -30,8 +30,8 @@
         },
         "files": ["src/Facebook/polyfills.php"]
     },
-    "minimum-stability": "stable",
-    "prefer-stable": true,
+    "minimum-stability": "dev",
+    "prefer-stable": false,
     "autoload-dev": {
         "psr-4": {
             "Facebook\\Tests\\": "tests/"
